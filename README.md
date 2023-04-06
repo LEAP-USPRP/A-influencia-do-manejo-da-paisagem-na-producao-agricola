@@ -1,4 +1,4 @@
-# A-influencia-do-manejo-da-paisagem-na-producao-agricola
+# A influência do manejo da paisagem na produção agrícola
 
 # Autora: Carmen Olivieri
 
