@@ -4,7 +4,7 @@
 
 Trabalho de Conclusão de Curso elaborado como requisito para conclusão do Curso de Especialização em Gerenciamento Ambiental da Escola Superior de Agricultura Luiz de Queiroz – ESALG/USP
 
-# Orientador: Prof. Dr. Danilo Boscolo (DB - FFCLRP - USP Ribeirão Preto); LEAP - Laboratório de Ecologia e Análise de Paisagens
+Orientador: Prof. Dr. Danilo Boscolo (DB - FFCLRP - USP Ribeirão Preto); LEAP - Laboratório de Ecologia e Análise de Paisagens
 
 O trabalho completo estará eventualmente disponível no banco de teses e dissertações da USP.
 
